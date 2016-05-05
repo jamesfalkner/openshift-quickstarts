@@ -51,6 +51,17 @@
 			<version>6.4.0.Final</version>
 		</dependency>
 
+  <dependency>
+    <groupId>org.drools</groupId>
+    <artifactId>drools-compiler</artifactId>
+    <version>LATEST</version>
+  </dependency>
+  <dependency>
+    <groupId>org.kie</groupId>
+    <artifactId>kie-api</artifactId>
+    <version>LATEST</version>
+  </dependency>
+
 		<dependency>
 			<groupId>org.drools</groupId>
 			<artifactId>drools-workbench-models-guided-dtable</artifactId>
@@ -62,6 +73,13 @@
                         <artifactId>jbpm-bpmn2</artifactId>
                         <version>6.4.0.Final</version>
                 </dependency>
+
+				<dependency>
+					<groupId>org.kie</groupId>
+					<artifactId>kie-ci</artifactId>
+					<version>LATEST</version>
+				</dependency>
+
 
 </dependencies>
 
