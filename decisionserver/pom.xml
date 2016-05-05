@@ -21,6 +21,7 @@
 
     <modules>
         <module>hellorules</module>
+        <module>coolstore</module>
         <module>hellorules-client</module>
     </modules>
 
