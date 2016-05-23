@@ -1,5 +1,5 @@
 Example BRMS Rule Service for CoolStore
-=======================================
+========================================
 
 Tested on BRMS 6.2
 
